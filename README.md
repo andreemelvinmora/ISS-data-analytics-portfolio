@@ -7,6 +7,9 @@ This repository showcases projects, tools, and skills developed through internsh
 The work demonstrates how data can be transformed from raw information into actionable insights through data cleaning, analysis, visualization, and AI-assisted workflows.
  
 ---
+## Research Question
+ 
+How do multidimensional poverty indicators vary across countries and regions, and which factors contribute most significantly to poverty levels?
  
 ## Technologies & Tools
  
@@ -28,6 +31,7 @@ The work demonstrates how data can be transformed from raw information into acti
 - Apache Superset
 - Camel AI
 - AI-powered Research & Workflow Automation
+- VS Code Agents 
  
 ### Version Control
 - Git
